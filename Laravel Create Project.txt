@@ -1,4 +1,4 @@
-Frist Time
+First Time
 composer global require laravel/installer
 composer create-project --prefer-dist laravel/laravel 'project name'
 cd 'project name'
